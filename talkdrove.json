@@ -1,5 +1,5 @@
 {
-    "bot-name": "INCONNU-XD",
+    "bot-name": "sapiens_jc",
     "description": "Whiskey Sockets Baileys Whatsapp bot By joeljamestech",
     "logo": "https://files.catbox.moe/e1k73u.jpg",
     "keywords": ["bot"],
@@ -28,13 +28,13 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "INCONNU BOY"
+      "value": "Sapiens jc"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "554488138425"
+      "value": "243808664049"
 
     }, 
 
