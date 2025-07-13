@@ -1,16 +1,16 @@
 {
-  "name": "INCONNU-XD",
+  "name": "SAPIENS_jc",
   "version": "2.0.0",
   "description": "Better than before",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name INCONNU-XD",
-    "stop": "pm2 stop INCONNU-XD",
-    "restart": "pm2 restart INCONNU-XD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name SAPIENS_jc",
+    "stop": "pm2 stop SAPIENS_JC",
+    "restart": "pm2 restart SAPIENS_jc"
   },
   "keywords": ["inconnu-boy", "whatsapp-bot", "whatsapp md bot"],
-  "author": "INCONNU BOY",
+  "author": "SAPIENS jc",
   "license": "ISC",
   "dependencies": {
     "@whiskeysockets/baileys": "npm:baileys-pro@0.0.5",
